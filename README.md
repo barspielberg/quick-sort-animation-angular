@@ -1,6 +1,4 @@
-# QuickSortAnimationAngular2
-
-https://quick-sort.web.app/
+# QuickSortAnimationAngular - https://quick-sort.web.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
